@@ -1,8 +1,12 @@
 ```
-> Hi, I'm Avi
+██   ██ ██        ██ █ ███    ███      █████  ██    ██ ██
+██   ██ ██        ██   ████  ████     ██   ██ ██    ██ ██
+███████ ██        ██   ██ ████ ██     ███████ ██    ██ ██
+██   ██ ██        ██   ██  ██  ██     ██   ██  ██  ██  ██
+██   ██ ██ ▄█     ██   ██      ██     ██   ██   ████   ██
+
   FULL-STACK DEVELOPER AND DATA ENGINEER FROM NEPAL
 ```
-
 🌱 Founder of **MutualBook.com**, a platform that connects people with the right partners for clients, deals, projects and jobs.
 
 🎓 BSc (Hons) Computing with Artificial Intelligence at Islington College (London Metropolitan University)
